@@ -12,7 +12,7 @@ model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accur
 
 class_names = ['cat', 'dog']
 
-st.title("🩺 Chidinma Pet Class Prediction App")
+st.title("🩺  Pet Class Prediction App")
 
 uploaded_file = st.file_uploader("Upload an image...", type=["jpg", "jpeg", "png"])
 
