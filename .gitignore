@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.csv
+*.zip
+*.mp4
+*.h5
+*.pth
+*.pt
+*.pkl
+.ipynb_checkpoints/
